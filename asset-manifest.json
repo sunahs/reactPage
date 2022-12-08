@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://sunahs.github.io/reactPage/static/css/main.f5d2dc85.css",
+    "main.js": "https://sunahs.github.io/reactPage/static/js/main.e7dd9cf2.js",
+    "static/js/787.4704cbb5.chunk.js": "https://sunahs.github.io/reactPage/static/js/787.4704cbb5.chunk.js",
+    "index.html": "https://sunahs.github.io/reactPage/index.html",
+    "main.f5d2dc85.css.map": "https://sunahs.github.io/reactPage/static/css/main.f5d2dc85.css.map",
+    "main.e7dd9cf2.js.map": "https://sunahs.github.io/reactPage/static/js/main.e7dd9cf2.js.map",
+    "787.4704cbb5.chunk.js.map": "https://sunahs.github.io/reactPage/static/js/787.4704cbb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5d2dc85.css",
+    "static/js/main.e7dd9cf2.js"
+  ]
+}
